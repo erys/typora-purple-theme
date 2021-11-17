@@ -463,8 +463,8 @@ footer {
 }
 
 #write .md-task-list-item.task-list-done > p {
-  color: #b4b4b4;
-  text-decoration: line-through;
+/*  color: #b4b4b4;
+  text-decoration: line-through;*/
 }
 
 #write .md-task-list-item.task-list-done > p > .md-emoji {
